@@ -6,7 +6,7 @@ import pandas as pd
 class Bandit:
     """ 
     This class creates a Bandit object, which has its mean, mean estimate, and the number of trials.
-    The class has methods to perform A/B testing with the Epsilon Greedy algorithm and display the results 
+    The class has methods that perform A/B testing with the Epsilon Greedy algorithm and display the results 
     with the help of a table and visualization.
     """
 
