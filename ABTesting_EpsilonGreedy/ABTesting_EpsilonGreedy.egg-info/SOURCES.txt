@@ -1,0 +1,13 @@
+AUTHORS.rst
+LICENSE.txt
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+ABTesting_EpsilonGreedy/ABTesting_EpsilonGreedy.py
+ABTesting_EpsilonGreedy/__init__.py
+ABTesting_EpsilonGreedy.egg-info/PKG-INFO
+ABTesting_EpsilonGreedy.egg-info/SOURCES.txt
+ABTesting_EpsilonGreedy.egg-info/dependency_links.txt
+ABTesting_EpsilonGreedy.egg-info/requires.txt
+ABTesting_EpsilonGreedy.egg-info/top_level.txt
